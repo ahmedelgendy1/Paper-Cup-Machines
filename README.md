@@ -1,0 +1,4 @@
+# Paper-Cup-Machines
+What is the Paper Cup , and how we forming the paper into Cup , there are a lot of process to get the final product to cup , this industry growing up since COIVD pandemic starts on 2020 
+Roll Die Cutting Machine
+PY-950 is an ideal and professional machine in die-cutting, creasing, embossing and full-stripping various PE coated paper, normal paper, corrugating paper and plastic material. It applies to paper cup, paper box, medical package, wine package, food package and other environmental protection products. It adopts micro-computer, HMI, servo positioning, alternating current frequency converter, automatic counting, photoelectric rectifying, and pneumatic lock cutting plate, electromagnetic clutch, centralized oil lubrication, overload protection and distinctive gearing. All of these is the guarantee of steady pressure, precise positioning, smooth running, safety and reliability operation.
